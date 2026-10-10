@@ -1,0 +1,8 @@
+{
+  "name": "survey485read",
+  "version": "1.4.0",
+  "date": "2026-10-10",
+  "tag": "survey485read-1.4.0",
+  "notes": "检查更新读取公开仓 wavemesh_485_read_open。本发行版只发布版本信息，用于检查是否需要更新，不附带安装包或脚本文件。",
+  "files": []
+}
