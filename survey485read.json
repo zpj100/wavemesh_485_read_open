@@ -1,8 +1,8 @@
 {
   "name": "survey485read",
-  "version": "1.4.0",
-  "date": "2026-10-10",
-  "tag": "survey485read-1.4.0",
-  "notes": "检查更新读取公开仓 wavemesh_485_read_open。本发行版只发布版本信息，用于检查是否需要更新，不附带安装包或脚本文件。",
+  "version": "1.5.0",
+  "date": "2026-10-11",
+  "tag": "survey485read-1.5.0",
+  "notes": "电压按 /100 解析为毫伏。上传判断使用解析后的电流/压降/温度。MariaDB 测量字段 DECIMAL(6,3)，超出 ±999.999 填 0。检查更新优先 jsDelivr 与 Gitee。本发行版只发布版本信息，不附带安装包或脚本文件。",
   "files": []
 }
